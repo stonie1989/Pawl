@@ -1,7 +1,7 @@
 {
-    "name": "ratchet/pawl"
-  , "description": "Asynchronous WebSocket client"
-  , "keywords": ["WebSocket", "client", "Ratchet", "async", "websocket client"]
+    "name": "stonie1989/pawl"
+  , "description": "Asynchronous WebSocket client by Ratchet fixed for PHP 8.4"
+  , "keywords": ["WebSocket", "client", "Ratchet", "async", "websocket client", "Stonie1989"]
   , "license": "MIT"
   , "autoload": {
         "psr-4": {
