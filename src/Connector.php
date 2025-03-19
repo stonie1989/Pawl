@@ -25,7 +25,7 @@ class Connector {
         }
 
         $this->_connector  = $connector;
-        $this->_negotiator = new ClientNegotiator(new gPsr\HttpFactory());
+        $this->_negotiator = new ClientNegotiator;
     }
 
     /**
